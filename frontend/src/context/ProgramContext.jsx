@@ -3,7 +3,7 @@ import { programs } from "../assets/assets";
 
 export const ProgramContext = createContext();
 
-const ProgramContextProvider = (props) =>{
+const ProgramContextProvider = (props) => {
 
     const value = {
         programs

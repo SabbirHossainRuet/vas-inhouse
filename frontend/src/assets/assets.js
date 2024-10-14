@@ -7,7 +7,7 @@ export const programs = [
         db_name: "mowca",
         programmer: "Sabbir",
         p_status: "RESULT PUBLISHED",
-        comm : "Shariar",
+        comm: "Shariar",
         app_start: "15-10-2023",
         app_end: "04-11-2023"
     },
@@ -18,7 +18,7 @@ export const programs = [
         db_name: "dam",
         programmer: "Sabbir",
         p_status: "POST LIVE",
-        comm : "Shariar",
+        comm: "Shariar",
         app_start: "25-10-2023",
         app_end: "14-11-2023"
     },
@@ -29,7 +29,7 @@ export const programs = [
         db_name: "jbc",
         programmer: "Sabbir",
         p_status: "POST LIVE",
-        comm : "Shariar",
+        comm: "Shariar",
         app_start: "04-03-2024",
         app_end: "31-03-2024"
     },
@@ -40,7 +40,7 @@ export const programs = [
         db_name: "tgtdcl",
         programmer: "Sabbir",
         p_status: "POST LIVE",
-        comm : "Jubair",
+        comm: "Jubair",
         app_start: "25-11-2023",
         app_end: "20-12-2023"
     },
@@ -51,7 +51,7 @@ export const programs = [
         db_name: "dcnoakhali",
         programmer: "Sabbir",
         p_status: "RESULT PUBLISHED",
-        comm : "Kibria",
+        comm: "Kibria",
         app_start: "12-11-2023",
         app_end: "30-11-2023"
     },
@@ -62,7 +62,7 @@ export const programs = [
         db_name: "dcsunamganj_new",
         programmer: "Sabbir",
         p_status: "POST LIVE",
-        comm : "Kibria",
+        comm: "Kibria",
         app_start: "28-11-2023",
         app_end: "21-12-2023"
     }
